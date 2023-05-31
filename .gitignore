@@ -1,2 +1,5 @@
+__pycache__
+.vscode
 clients.json
 *.pkl
+tracks.log
