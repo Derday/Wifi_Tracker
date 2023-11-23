@@ -1,0 +1,12 @@
+log:
+  file: # tracks.log
+sqlite:
+  file: # tracks.db
+  database: # database_name
+mysql:
+  user: # user
+  password: # password
+  host: # ip or url
+  database: # database_name
+# uncomment what u want to use 
+# everything else leave commented
